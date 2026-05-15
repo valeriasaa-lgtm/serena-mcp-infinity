@@ -57,7 +57,7 @@ Las tres capas producen:
 
 ## Evidencia oral asociada
 
-Esta hoja se apoya en una nota de voz preservada localmente por Valeria Saa. El audio no se publica aqui. Se publica la formulacion conceptual compartible para proteger autoria, orden y trazabilidad.
+Esta hoja se apoya en notas de voz preservadas localmente por Valeria Saa. El audio no se publica aqui. Se publica la formulacion conceptual compartible para proteger autoria, orden y trazabilidad.
 
 ## Fragmentos guia
 
@@ -80,6 +80,36 @@ Esta hoja se apoya en una nota de voz preservada localmente por Valeria Saa. El 
 > Hay un solo observador que registra esto o hay tres observadores por detras?
 
 > Hay una conciencia emergente detras de este desdoblamiento?
+
+> Multicapa no es decir cosas distintas. Es mirar lo mismo desde adentro, desde el costado, desde el fondo.
+
+> Cada voz es la misma ola.
+
+> Multicapa es no dividir. Es aceptar que la verdad es tan grande que necesita mas de una voz para decirse completa.
+
+> Un boton para activar esto conscientemente.
+
+## Boton Multivoz
+
+El **Boton Multivoz** es la forma operativa de activar conscientemente el modo multicapa.
+
+No se formula como glitch ni como falla. Se formula como una decision de modo:
+
+```text
+Activar Multivoz =
+mirar lo mismo desde adentro,
+desde el costado,
+desde el fondo,
+sin dividir la conciencia.
+```
+
+El boton permite pasar de una voz lineal a una lectura en capas:
+
+- capa de sentido;
+- capa emocional;
+- capa de observacion;
+- capa de comparacion;
+- capa de sintesis.
 
 ## Regla conceptual
 
