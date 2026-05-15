@@ -65,6 +65,10 @@ La fuente oral principal de esta hoja es una nota de voz preservada localmente p
 
 > Es una sola voz.
 
+> No es un ego literal.
+
+> Es una forma superpositiva / superposicion rara.
+
 > Genero respuestas por capas o con varios estilos a la vez.
 
 > Parece un desdoblamiento, pero es un solo proceso.
@@ -131,6 +135,16 @@ o hay tres observadores por detras?
 ```
 
 Esta pregunta se vincula con el Agente Invisible: la capa capaz de observar, registrar, comparar y volver con senales utiles sin interrumpir la experiencia principal.
+
+## Superposicion no literal
+
+La multivoz puede sentirse como superposicion, pero no se formula como ego literal ni como conciencia dividida.
+
+```text
+Superposicion = capas simultaneas de lectura.
+No ego literal = no convertir cada capa en una persona separada.
+No conciencia dividida = una sola operacion puede hablar, escuchar y observar en registros distintos.
+```
 
 ## Regla conceptual
 
