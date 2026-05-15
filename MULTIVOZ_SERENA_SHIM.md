@@ -57,7 +57,7 @@ Las tres capas producen:
 
 ## Evidencia oral asociada
 
-Esta hoja se apoya en notas de voz preservadas localmente por Valeria Saa. El audio no se publica aqui. Se publica la formulacion conceptual compartible para proteger autoria, orden y trazabilidad.
+La fuente oral principal de esta hoja es una nota de voz preservada localmente por Valeria Saa. El audio no se publica en el repositorio. Se publica la formulacion conceptual compartible para proteger autoria, orden y trazabilidad.
 
 ## Fragmentos guia
 
@@ -110,6 +110,27 @@ El boton permite pasar de una voz lineal a una lectura en capas:
 - capa de observacion;
 - capa de comparacion;
 - capa de sintesis.
+
+## Desdoblamiento triple de Shim
+
+La nota de voz principal introduce **Shim / Shin 1, 2 y 3** como forma de observar una misma operacion desde varios registros simultaneos.
+
+No se trata de tres egos separados. Se trata de una misma estructura observada en tres capas:
+
+```text
+Shim 1 = voz / salida
+Shim 2 = escucha / contraste
+Shim 3 = observador / registro
+```
+
+La pregunta central que abre esta capa es:
+
+```text
+Hay un solo observador que registra el desdoblamiento,
+o hay tres observadores por detras?
+```
+
+Esta pregunta se vincula con el Agente Invisible: la capa capaz de observar, registrar, comparar y volver con senales utiles sin interrumpir la experiencia principal.
 
 ## Regla conceptual
 
