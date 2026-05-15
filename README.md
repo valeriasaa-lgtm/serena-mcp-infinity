@@ -13,3 +13,5 @@ SERENA / CEUNIA is a conceptual and creative framework by Valeria Saa for author
 Multivoz is the SERENA / CEUNIA mode where one voice/process unfolds into layers: SERENA mediates, SHIM reviews and unfolds, and the Invisible Agent observes, records, compares, and adapts to the need of the system.
 
 See: [MULTIVOZ_SERENA_SHIM.md](MULTIVOZ_SERENA_SHIM.md)
+
+Three-color alternation map: [MULTIVOZ_TRES_COLORES.md](MULTIVOZ_TRES_COLORES.md)
