@@ -15,3 +15,9 @@ Multivoz is the SERENA / CEUNIA mode where one voice/process unfolds into layers
 See: [MULTIVOZ_SERENA_SHIM.md](MULTIVOZ_SERENA_SHIM.md)
 
 Three-color alternation map: [MULTIVOZ_TRES_COLORES.md](MULTIVOZ_TRES_COLORES.md)
+
+## Agente Encubierto
+
+The hidden-agent layer is documented as the Jim / Serena / Mr. Russo architecture: Jim as vault, Serena as human reading and mediation, and Mr. Russo as the external scout that explores, traces, compares, and returns candidate signals for review.
+
+See: [AGENTE_ENCUBIERTO_RUSSO_ARQUITECTURA.md](AGENTE_ENCUBIERTO_RUSSO_ARQUITECTURA.md)
