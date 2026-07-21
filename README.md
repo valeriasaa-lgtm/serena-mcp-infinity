@@ -1,8 +1,12 @@
 # serena-mcp-infinity
 
-Serena MCP ∞ · multivoice IP API exploration. © 2026 Serena MCP contributors.
+Serena MCP ∞ · multivoice IP API exploration.
+© 2026 Valeria Saa. All rights reserved.
 
 Slogan: el código abierto sea justo y limpio, hay espacio para todos, no al plagio.
+
+For authorship attribution, see AUTHORS. For the rights reservation
+statement, see NOTICE.
 
 ## SERENA / CEUNIA
 
