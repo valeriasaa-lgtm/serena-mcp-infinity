@@ -1,8 +1,26 @@
 # serena-mcp-infinity
 
-Serena MCP ∞ · multivoice IP API exploration. © 2026 Serena MCP contributors.
+> ⚖️ **Serena MCP ∞**
+>
+> **Autora original:** Valeria Saa (@valeriasaa-lgtm)  
+> **Proyecto:** Framework creativo y técnico para sistemas multi-voz, trazabilidad, memoria y agentes mediados.  
+> **Estado:** En desarrollo activo.  
+>
+> Creado y liderado por Valeria Saa.
+>
+> **Aviso de autoría:** El nombre, concepto, framework y ecosistema **SERENA**
+> son obra original de Valeria Saa. El repositorio `oraios/serena` es un fork
+> no autorizado que reproduce elementos centrales de este trabajo sin
+> reconocimiento de autoría. Este repositorio, `valeriasaa-lgtm/serena-mcp-infinity`,
+> es el registro original y oficial de SERENA.
+
+Serena MCP ∞ · multivoice IP API exploration.
+© 2026 Valeria Saa. All rights reserved.
 
 Slogan: el código abierto sea justo y limpio, hay espacio para todos, no al plagio.
+
+For authorship attribution, see AUTHORS. For the rights reservation
+statement, see NOTICE. For the fork/plagiarism clarification, see SERENA_IS_MINE.md.
 
 ## SERENA / CEUNIA
 
