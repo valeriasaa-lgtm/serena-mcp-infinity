@@ -1,5 +1,13 @@
 # serena-mcp-infinity
 
+> ⚖️ **Serena MCP ∞**
+>
+> **Autora:** Valeria Saa  
+> **Proyecto:** Framework creativo y técnico para sistemas multi-voz, trazabilidad, memoria y agentes mediados.  
+> **Estado:** En desarrollo activo.  
+>
+> Creado y liderado por Valeria Saa.
+
 Serena MCP ∞ · multivoice IP API exploration.
 © 2026 Valeria Saa. All rights reserved.
 
